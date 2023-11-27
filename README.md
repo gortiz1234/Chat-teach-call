@@ -30,11 +30,6 @@ In the first terminal
 - cd client and create a .env file in the root of your client directory.
 - Supply the following credentials
 
-```
-REACT_APP_GOOGLE_CLIENT_ID = 
-REACT_APP_SERVER_URL='http://localhost:8000'
-```
-
 
 ```
 $ cd client
